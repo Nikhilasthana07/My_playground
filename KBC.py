@@ -165,7 +165,7 @@ ready = input("To kya aap khelne ke liye teyar h: ")
 print("\n")
 #Check the condition true or false
 if(('Yes'and 'yes') == ready or ('Ha' and 'ha') == ready):
-    print("TO thih h suru krte h.")
+    print("TO thik h suru krte h.")
     question()#calling function
     
 elif(ready == ('No' and 'no') or ready == ('Na' and 'na')):
